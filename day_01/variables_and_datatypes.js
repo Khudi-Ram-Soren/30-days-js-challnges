@@ -5,7 +5,7 @@ console.log(number);
 
 // task-2 : Declare a variaable using let, assign it a string, and log the value to the console
 
-let fruit = "mango"
+let fruit = "mango";
 console.log(fruit);
 
 // task-3 : Declare a variable using const, assign it a boolean value, and log the value to the console
@@ -39,8 +39,8 @@ console.log("value of carName is : ", carName);
 
 // task-6 : Try reassigning a variable declared with const and observe the error.
 
-const city = "ranchi";
-city = "delhi"; // we can't reassign a value to const because of const variable is not reassignable in javaScript
+// const city = "ranchi";
+// city = "delhi"; // we can't reassign a value to const because of const variable is not reassignable in javaScript
 
 // Feature Request: 
 // 1. Variable Types Console Log: Write a script that declares variables of different data types and log both the value and type of each variable to the console.
